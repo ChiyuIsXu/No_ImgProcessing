@@ -1,0 +1,19 @@
+
+# MacOS
+.DS_Store/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset
+data/*
+Dataset/*
+datasets/*
+
+# Compressed files
+.compressed
+*.zip
+*.rar
+*.gz
+*.7z
