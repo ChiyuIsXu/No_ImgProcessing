@@ -1,0 +1,22 @@
+[client]
+showErrorDetails = false
+
+[theme]
+backgroundColor = "black"
+primaryColor = "#F63366"
+
+[page]
+title = "Streamlit Template 01"
+# a list of all supported codes: https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
+icon = ":shark:"
+# "auto", "expanded", or "collapsed"
+initial_sidebar_state = "expanded"
+# centered or wide
+layout = "wide"
+
+[page.menu_items]
+about = "# Author: NoVarYe!"
+get_help = "https://www.extremelycoolapp.com/help"
+report_a_bug = "https://www.extremelycoolapp.com/bug"
+
+ 
