@@ -13,8 +13,6 @@ Be alone， that is when ideas are born.
 
 ## Project Introduction
 
-本项目通过训练一个简单的模型，实现图像前后景的分割，即所谓的抠图。
-
 "a picture is worth a thousand words." 该项目会尽可能使用图片，演示探索过程。
 
 另外，任何操作过程，都应该”言之有理“。

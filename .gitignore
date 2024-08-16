@@ -17,3 +17,10 @@ datasets/*
 *.rar
 *.gz
 *.7z
+
+# Config files
+.flake8
+
+# Files
+Ref/
+build/

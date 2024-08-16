@@ -6,17 +6,17 @@ backgroundColor = "black"
 primaryColor = "#F63366"
 
 [page]
-title = "Streamlit Template 01"
+title = "No Image Processing"
 # a list of all supported codes: https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
-icon = ":shark:"
+# icon = ":shark:"
+icon = "static/ICON.ico"
 # "auto", "expanded", or "collapsed"
 initial_sidebar_state = "expanded"
 # centered or wide
 layout = "wide"
 
 [page.menu_items]
-about = "# Author: NoVarYe!"
+about = "# No-Image Processing Visualizer. This is an *extremely* cool app!"
 get_help = "https://www.extremelycoolapp.com/help"
 report_a_bug = "https://www.extremelycoolapp.com/bug"
 
- 
